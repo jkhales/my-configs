@@ -1,0 +1,4 @@
+map u toggle_fullscreen
+map t toggle_statusbar
+set show_statusbar false
+set show_inputbar false
